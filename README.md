@@ -1,3 +1,4 @@
 # printf
-Printf is lit
+Printf is lit.
+
 printf is as easy as ABC
